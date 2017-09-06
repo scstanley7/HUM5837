@@ -1,0 +1,3 @@
+# Document Analysis
+
+*This file will be used to record your document analysis. This will be the first step you complete (before you even begin encoding). Conducting document analysis allows you to decide which features are important to your research/edition. It also allows you to determine which features you* do not *want to encode, and which features you would like to ignore. You can expand or refine your analysis once you've begun encoding, but it is important to have a large portion of this thought through by the time you actually start creating your TEI documents.*
